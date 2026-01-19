@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Asmita Roy"
+author: "Asmita Roy"
+description: "Johns Hopkins University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,9 +22,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "aroy38@jh.edu"}
+  - {title: Github, icon: github, url: "https://github.com/asmita112358"}
+  - {title: Google Scholar, icon: Google Scholar, url: "https://scholar.google.com/citations?user=6IwkOAwAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
